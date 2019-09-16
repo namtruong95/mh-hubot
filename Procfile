@@ -1,1 +1,1 @@
-web: npm run local
+web: source .env && npm run local
